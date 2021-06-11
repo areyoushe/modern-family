@@ -1,0 +1,32 @@
+h1{
+    margin-top: 25px;
+    font-family: bebas neue;
+    color: rgb(199, 59, 24);
+    background: rgb(0, 0, 0) ;
+    text-align: center;}
+body {
+    margin: 0 ;
+    padding: 0 ;
+    background: rgb(255, 255, 255);}
+    #trailer{
+        text-align:center;}
+    p{
+       font-family: antonio;
+       font-style: inherit;
+       font-weight: bold;
+        color: rgba(34, 18, 4, 0.767);
+        text-align: center;
+         font-size: 20px; 
+        margin-left: 20px;
+        margin-right:40px;
+        }
+
+    hr{
+        background: white;}
+        #abc{
+        text-align: center;}
+    img{
+        height: 108px;
+        width: 566px;
+        margin-left: 355px;
+        margin-right: 30px;}
